@@ -1,0 +1,4 @@
+funcion hola() {
+    leer(nombre);
+    escribir("Tu nombre es:" + nombre);
+}

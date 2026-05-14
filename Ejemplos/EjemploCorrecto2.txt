@@ -1,0 +1,11 @@
+funcion calculo() {
+
+    x = 10;
+
+    y = 20;
+
+    escribir("Resultado:");
+
+    escribir(x + y);
+
+}
